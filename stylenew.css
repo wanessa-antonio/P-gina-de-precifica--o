@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif; 
+}
+
+.navbar {
+  background-color: #f8f9fa;  
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  background-color: #f8f9fa;
+}
+
+.navbar-nav .nav-link {
+  color: #535353 !important; 
+  font-weight: bold; 
+}
+
+.recrutamento-background {
+  background: radial-gradient(circle, #1ea358, #138746, #2ca353, #1f8152, #2bc877);
+
+  padding-left: 50px;
+  padding-right: 50px;    
+} 
+
+#recrutamento h2,
+#recrutamento p {
+    color: #fff; 
+}
+
+
+#recrutamento h2 {
+    font-size: 22px; 
+}
+
+#recrutamento p {
+    font-size: 16px; 
+}
+
+.rodape {
+  background-color: white; 
+}
+
+.custom-card {
+  background-color: white; 
+  border-color: #06fa1b;
+  border-width: 2px; 
+  color: black; 
+}
+
+.custom-card h3 {
+  font-size: 20px;   
+}
+
+.custom-card h4 {
+  font-size: 18px; 
+}
+
+.custom-card p {
+  font-size: 16px; 
+}
+
+.custom-card .btn-primary {
+  background-color: #1ea358; 
+  border-color: white; 
+  color: white;
+}
+
+.custom-card .btn-primary:hover {
+  background-color: #138746; 
+  border-color: white; 
+  color: white; 
+}
+
+.frase-recuada {
+  margin-right: 95px; 
+}
+
+.btn-outline-success {
+  background-color:#dffaf4; 
+}
+
+.btn-outline-success:hover {
+  background-color:#c2f8ec; 
+  color: #28a745; 
+  border-color: #28a745;
+ }
+
+
